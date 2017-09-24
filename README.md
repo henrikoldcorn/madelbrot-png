@@ -1,4 +1,4 @@
-# madelbrot-png
+# mandelbrot-png
 outputs high-res mandelbrot set PNGs
 
 Makes use of lodepng library, written by Lode Vandevenne (lodev.org)
